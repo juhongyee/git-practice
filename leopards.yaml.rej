@@ -1,0 +1,9 @@
+diff a/leopards.yaml b/leopards.yaml	(rejected hunks)
+@@ -1,6 +1,6 @@
+ team: Leopards
+ 
+-manager: Nora
++manager: Luni
+ 
+ coach: Oscar
+ 
